@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+.DriverCard{
+  background-color: #3F7FBF;
+  float:left;
+  width:85%;
+  margin-bottom: 2%;
+  border-radius: 15px;
+  margin-top: 2%;
+}
+
+.DriverCard li {
+  list-style: none;
+}
+
+.DriverCard img {
+  border-radius: 50%;
+}
+
+.DriverCard .Image{
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 25%;
+  float: left;
+  width:15%;
+}
+
+.DriverCard .Texto{
+  margin-top: 5%;
+  margin-right:35%;
+  size: 10em;
+  color: white;
+}
+
